@@ -7,15 +7,6 @@
 <!--  -->
 <p align="center">
 
-</p>
-<div align="center">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
- <h3> About me</hr>
-</div>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Dženis;Thanks+For+Visiting+My+Page;hOLA +SOY+UN +ESTUDIANTE-DE+PROGRAMACIO-Y+ESTUDIANTE,;DE+INGUINERIA+EN+STEMAS+EN +LA+U.T.N,EN+SAN+RAFAEL+MENDOZA+ARGENTINA,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being.;"></a>
-</p>
 
 
 <br>
